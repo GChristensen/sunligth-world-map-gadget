@@ -1,3 +1,4 @@
+// (C) 2011 g/christensen (gchristnsn@gmail.com)
 
 // Map dimensions
 var mapWidth = 360;
