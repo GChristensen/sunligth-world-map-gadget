@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gadget>
+  <name>World Sunlight Map</name>
+  <namespace>gchristnsn.sunlightmap</namespace>
+  <version>1.0.0.0</version>
+  <author name="g/christensen">
+    <info url="mailto:gchristnsn@gmail.com" text="gchristnsn@gmail.com"/>
+  </author>
+  <copyright>© 2011</copyright>
+  <description>Displays sunlight shadow on a world map.</description>
+  <icons>
+    <icon height="34" width="64" src="icon.png"/>
+  </icons>
+  <hosts>
+    <host name="sidebar">
+      <autoscaleDPI>true</autoscaleDPI>
+      <base type="HTML" apiVersion="1.0.0" src="sunlightMap.html"/>
+      <permissions>Full</permissions>
+      <platform minPlatformVersion="1.0"/>
+      <defaultImage src="drag.png"/>
+    </host>
+  </hosts>
+</gadget>
