@@ -1,9 +1,7 @@
 # Sunlight World Map Gadget
 
-Shows current Sun and Moon coordinates.
-
-[DOWNLOAD](https://github.com/downloads/GChristensen/sunligth-world-map-gadget/WorldSunlightMap.gadget)
+Shows the current Sun and Moon position on the map.
 
 <img src="https://github.com/GChristensen/sunligth-world-map-gadget/blob/master/screen.png"/>
 
-WARNING: Windows Sidebar (for example, [this](http://8gadgetpack.net) one) should be installed manually on modern versions of Windows.
+[Windows Sidebar](http://8gadgetpack.net) should be installed manually on the modern versions of Windows.
